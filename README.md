@@ -7,7 +7,7 @@ more and more functions. For now, we have 4 functions :
 3. Open any program that given path/file
 4. Show the history
 
-> **Highlight important information**
+> **Important**
 >
 > This tool uses *python 3*. 
 >
@@ -24,6 +24,11 @@ We need to install required libraries and programs:
    git clone https://github.com/nicatmazanli/Python-Tools.git
    cd Python-Tools
    ```
+> **Note**
+>
+> In 3rd, works only older verison of python. 
+>
+
 3. Install libraries 
    ```Bash 
    pip install -r requiremets.txt 
